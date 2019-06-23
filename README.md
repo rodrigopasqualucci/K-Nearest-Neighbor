@@ -4,4 +4,4 @@
 - Machine Learning Model: K-Nearest Neighbor
 - Type of analysis: Classification
 
-<img src=https:https://i.ytimg.com/vi/ywIWUfjPCyY/maxresdefault.jpg width=500>
+<img src=maxresdefault.jpg width=500>
